@@ -64,3 +64,10 @@ Started the honeypot so it can listen for fake SSH/Telnet logins.
 Log files show unauthorized login attempts and interaction history.  
 ![Logs](screenshots/10_log_screenshot.png)
 ![Screenshot 2](screenshots/10b_log_screenshot.png)
+
+## 🧠 Lessons Learned
+
+- Learned how to fix Kali Linux update errors by importing missing GPG keys.  
+- Gained hands-on experience setting up a honeypot and observing attacker behavior.  
+- Practiced using a Python virtual environment to isolate dependencies.  
+- Understood the importance of log monitoring and running services under limited users.  
