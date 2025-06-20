@@ -46,16 +46,21 @@ Installed Cowrie’s required Python packages inside the virtual environment.
 
 ### ✅ Step 8: Edited Config File  
 Changed Cowrie’s SSH port to 2222 to avoid conflict with real SSH.  
-![Config](screenshots/08_ssh_port_config.png)
+![Config](screenshots/08a_ssh_port_config.png)
+![Screenshot 2](screenshots/08b_ssh_port_config.png)
 
 ---
 
 ### ✅ Step 9: Started Honeypot  
 Started the honeypot so it can listen for fake SSH/Telnet logins.  
-![Cowrie Running](screenshots/09_started_honeypot.png)
+![Cowrie Running](screenshots/09a_started_honeypot.png)
+![Cowrie Running](screenshots/09b_started_honeypot.png)
+![Cowrie Running](screenshots/09c_started_honeypot.png)
+
 
 ---
 
 ### ✅ Step 10: Log Output  
 Log files show unauthorized login attempts and interaction history.  
 ![Logs](screenshots/10_log_screenshot.png)
+![Screenshot 2](screenshots/10b_log_screenshot.png)
